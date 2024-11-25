@@ -1,9 +1,10 @@
-[ {
+[ 
+    {
     id: 1,
     name: "Tuition Terminal",
     gitLink: null,
     imageLink: "https://i.postimg.cc/8PH32G8M/tterminal.png",
     liveLink: "https://tuitionterminal.com.bd/",
     tags: ["react", "javascript", "vite", "bootstrap5", "redux"]
-  }
-  ]
+    }
+]
